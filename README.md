@@ -1,23 +1,32 @@
 # MVAV
-## Minimum Viable Autonomous Vehicle
-### Bringing autonomous robots and vehicles to educators
+## Bringing autonomous robots and vehicles to educators
+&nbsp;
+&nbsp;
+**The Minimum Viable Autonomous Vehicle** project is just starting! Please reach out to me at mrs175@case.edu if you are interested or have suggestions!
 
+**Current progress:**
+* [$50 autonomous car with code](github.com/sturzl/mvav)
+* [Labs introducing autnomous vehicle technology](github.com/sturzl/mvavlabs)
+&nbsp;
 
-This project is just starting! Please reach out to me at mrs175@case.edu if you are interested or have suggestions. This project is being developed by [Marc Sturzl](sturzl.com).
-
-Current progress:
-* $50 autonomous car and track
-* Labs introducing the primary techoologies that make autnomous vehicles autonomous
-
-Next Steps:
+**Next Steps:**
 * Better documentation
-* Connecting with educators to plan more curriculum
-* Integration with existing CS curriculums (like [CS Unplugged] (https://csunplugged.org/en/)
+* Curriculum power up
+  * Connect with educators to plan what curriculum to develop next
+  * Integration with an existing [CS Curriculum](https://csunplugged.org/en/)
+&nbsp;
 
-
-To see more go to github.com/sturzl/mvav
-
-Thanks for stopping by! - Marc
-
-
+Thanks for stopping by! - [Marc Sturzl](sturzl.com)
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 AVs, AV, autonomous car, autonomous robots, mobile robots, tech education, computer science, machine learning, control theory, control systems, computer vision, machine vision, CV, OpenCV
