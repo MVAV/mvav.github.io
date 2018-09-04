@@ -1,5 +1,5 @@
 # MVAV
-## Bringing autonomous robots and vehicles to students
+## Bringing autonomous vehicles to students!
 &nbsp;
 &nbsp;
 
