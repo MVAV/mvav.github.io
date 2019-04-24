@@ -3,13 +3,15 @@
 ## Summary
 - groups of 5 students will work with a mentor to create an autonomous car
 - A quick intro exercise will guide the steps to slowly add functionality
-- Mob program w/ rotating driver (unless no one in the group can code)
+- Mob program w/ rotating driver (unless no one in the group can type on a keyboard)
 - Focus on the students coming up with an experiment/expected outcome before trying to add new code
+- Be flexible, happy and energetic. With younger groups things won't go smoothly so keeping positive energy going will be really helpful.
+- Set really small goals (move the car, move the car further, turn the car, drive and turn, move the car to a target)
 
 ## Schedule
 - 20 minutes
   - Settle in, find groups
-  - Introduce groups to each other
+  - Introduce group members to each other
   - Explain the exercise
 - 1 hour
   - Do the xercise
@@ -30,8 +32,8 @@
 - Repeate and go around in the other direction (prompt for a different category)
 - Set ground rules
   - 5 minute turns writing code
-  - MUST listen to group for input before writing code
-  - no code gets written until the WHOLE group understands what the goal is)
+  - Typer must listen to group for input before writing code (they can contribute ideas when they aren't typing)
+  - No code gets written until the WHOLE group understands the goal
 
 ## Exercise
 - Robots have three core components: Sensing, thinking, and doing
@@ -41,15 +43,15 @@
 ## Coding
 - Replace the "doer" role with the car + code to accomplish a simple task (like rolling the car and turning right)
 - [Roughly follow this, but the age range seems too low to follow it explicitly](https://github.com/sturzl/mvavlabs/blob/master/labs/The%20Three%20Components%20of%20an%20Autonomous%20Robot.md)
-- If somehow you end up with a group of experienced high schoolers, maybe follow this pretty closely
+- If somehow you end up with a group of experienced high schoolers, maybe follow that pretty closely
 - [Here is the script you'll be working with](https://github.com/MVAV/car1/blob/master/car_script.py)
 
 ### API
-- rightWheel(direction, seconds)  and leftWheel(direction, seconds)
+- **rightWheel**(direction, seconds)  and **leftWheel**(direction, seconds)
   - Turns on the right wheel either forward or reverse, for a number of seconds
-- forward(seconds) and backward(seconds)
+- **forward**(seconds) and **backward**(seconds)
   - Both wheels forward for a number of seconds
-- Check out the example code in the repo mentioned at the top
+- Check out the script in the mentioned in the coding section
 
 ## How to use the car
 
