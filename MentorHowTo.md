@@ -23,6 +23,7 @@
   - Encourage quieter group members
   - Help them think of good experiments to try to get to the next step
 - Handle running the car (git + ssh etc)
+- Be familiar with the exercises and code
   
 ## How to introduce the group to each other
 - Go around with names and something from a category (favorite tv show, favorite game, favorite color, etc.)
@@ -38,15 +39,17 @@
 - Navigate as a group "robot" following the rules described
 
 ## Coding
-- Replace the "doer" role with the car + code to accomplish a simple task
-- Replace the thinker role and accomplish a more complex task
-- If somehow you end up with a group of experienced high schoolers, maybe replace the sensor role with the camera
+- Replace the "doer" role with the car + code to accomplish a simple task (like rolling the car and turning right)
+- [Roughly follow this, but the age range seems too low to follow it explicitly](https://github.com/sturzl/mvavlabs/blob/master/labs/The%20Three%20Components%20of%20an%20Autonomous%20Robot.md)
+- If somehow you end up with a group of experienced high schoolers, maybe follow this pretty closely
+- [Here is the script you'll be working with](https://github.com/MVAV/car1/blob/master/car_script.py)
 
-## API
+### API
 - rightWheel(direction, seconds)  and leftWheel(direction, seconds)
   - Turns on the right wheel either forward or reverse, for a number of seconds
 - forward(seconds) and backward(seconds)
   - Both wheels forward for a number of seconds
+- Check out the example code in the repo mentioned at the top
 
 ## How to use the car
 
