@@ -55,12 +55,13 @@
 
 (Sorry this should be better but its a work in progress)
 
-- Write some code then either:
-  - Commit to github
-  - Connect your laptop to the MVAV wifi
-  - SSH into the car
-  - Pull the code onto the car
-  - run the script
+Write some code then either:
+
+- Commit to github
+- Connect your laptop to the MVAV wifi
+- SSH into the car
+- Pull the code onto the car
+- run the script
   
 OR
 
