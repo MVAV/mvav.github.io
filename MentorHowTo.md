@@ -22,12 +22,15 @@
 - Enable the students in getting working code on the robot
   - Encourage quieter group members
   - Help them think of good experiments to try to get to the next step
-- Handle running the car (git + ssh etc?)
+- Handle running the car (git + ssh etc)
   
 ## How to introduce the group to each other
 - Go around with names and something from a category (favorite tv show, favorite game, favorite color, etc.)
 - Repeate and go around in the other direction (prompt for a different category)
-- Set ground rules (5 minute turns writing code, MUST listen to group for input before writing code, no code gets written until the WHOLE group understands what the goal is)
+- Set ground rules
+  - 5 minute turns writing code
+  - MUST listen to group for input before writing code
+  - no code gets written until the WHOLE group understands what the goal is)
 
 ## Exercise
 - Robots have three core components: Sensing, thinking, and doing
@@ -38,11 +41,12 @@
 - Replace the "doer" role with the car + code to accomplish a simple task
 - Replace the thinker role and accomplish a more complex task
 - If somehow you end up with a group of experienced high schoolers, maybe replace the sensor role with the camera
-- API is as follows:
-  - rightWheel(direction, seconds)  and leftWheel(direction, seconds)
-    - Turns on the right wheel either forward or reverse, for a number of seconds
-  - forward(seconds) and backward(seconds)
-    - Both wheels forward for a number of seconds
+
+## API
+- rightWheel(direction, seconds)  and leftWheel(direction, seconds)
+  - Turns on the right wheel either forward or reverse, for a number of seconds
+- forward(seconds) and backward(seconds)
+  - Both wheels forward for a number of seconds
 
 ## How to use the car
 
