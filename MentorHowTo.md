@@ -61,7 +61,9 @@
   - SSH into the car
   - Pull the code onto the car
   - run the script
+  
 OR
+
   - connect to mvav wifi
   - ssh into the car
   - write code on the car or paste it in
